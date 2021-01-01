@@ -27,7 +27,7 @@ experience:
     company: Los Alamos National Laboratory
     company_url: 'https://www.lanl.gov/'
     location: Los Alamos, NM
-    date_start: '2020-08'
+    date_start: '2020-08-08'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -40,7 +40,7 @@ experience:
     company: Major League Hacking, Inc.
     company_url: 'https://mlh.io/'
     location: New York City
-    date_start: '2018-11'
+    date_start: '2018-11-11'
     date_end: ''
     description: I support Hackathons, 24-hour computer science education contests for high-school and college students, by assisting event organizers and working with participants throughout North America.
 ---
