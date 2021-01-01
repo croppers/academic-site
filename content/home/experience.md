@@ -21,25 +21,26 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Postbac Research Associate
+    company: Los Alamos National Laboratory
+    company_url: 'https://www.lanl.gov/'
+    location: Los Alamos, NM
+    date_start: '2020-08'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
+        * Research
         * Modelling
-        * Deploying
+        * Data Science
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Coach
+    company: Major League Hacking, Inc.
+    company_url: 'https://mlh.io/'
+    location: New York City
+    date_start: '2018-11'
+    date_end: ''
+    description: I support Hackathons, 24-hour computer science education contests for high-school and college students, by assisting event organizers and working with participants throughout North America.
 ---
