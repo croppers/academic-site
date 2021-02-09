@@ -10,8 +10,8 @@ role: Postbac Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Los Alamos National Lab
-  url: https://www.lanl.gov/
+- name: Computational Earth Science, Los Alamos National Lab
+  url: https://www.lanl.gov/org/ddste/aldcels/earth-environmental-sciences/computational-earth-science/index.php
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include precipitation modeling, observational constraint, and community science.
